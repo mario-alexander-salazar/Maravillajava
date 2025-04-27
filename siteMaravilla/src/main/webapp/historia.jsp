@@ -44,6 +44,27 @@
                     <td>El mirador del Yambo ofrece vistas panorámicas de la laguna y los alrededores, 
                     	siendo un punto estratégico para tomar fotos y disfrutar del paisaje</td>
                 </tr>
+                 <tr>
+                    <td>Senderos para caminar</td>
+                    <td>Los alrededores de la laguna tienen senderos para caminar,
+                        perfectos para disfrutar de la naturaleza</td>
+                </tr>
+                 <tr>
+                    <td>Parque infantil</td>
+                    <td>Para los niños, existe un parque de atracciones con columpios 
+                        y juegos infantiles</td>
+                </tr>
+                  <tr>
+                    <td>Fauna</td>
+                    <td>Se pueden avistar diversas especies de aves, 
+                        como el pájaro brujo, patos silvestres y garzas</td>
+                </tr>
+                   <tr>
+                    <td>Comida típica</td>
+                    <td>En los alrededores se puede encontrar comida típica de la sierra, como fritada,
+                        habas con mellocos y choclos con queso</td>
+                </tr>        
+                
             </table>
         </section>
         <section>

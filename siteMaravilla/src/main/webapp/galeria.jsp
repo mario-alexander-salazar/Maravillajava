@@ -20,12 +20,14 @@
     <main>
         <section>
             <h2>Imágenes</h2>
-            <img src="imagenes/yambo2.jpg" alt="Laguna de Yambo" width="500">
-            <img src="imagenes/yambo3.jpg" alt="Laguna de Yambo" width="300">
+            <img src="imagenes/yambo2.jpg" alt="Laguna de Yambo" width="600">
+            <img src="imagenes/yambo3.jpg" alt="Laguna de Yambo" width="400">
+            <img src="imagenes/tarabita.jpg" alt="Laguna de Yambo" width="600">
+            <img src="imagenes/senderos.jpg" alt="Laguna de Yambo" width="600">
         </section>
         <section>
             <h2>Conoce más de la Laguna de Yambo en este video</h2>
-            <iframe width="560" height="315" 
+            <iframe width="560" height="500" 
                 src="https://www.youtube.com/embed/h435SjXQiyc" 
                 title="Video de la Laguna de Yambo" 
                 frameborder="0" allowfullscreen>
