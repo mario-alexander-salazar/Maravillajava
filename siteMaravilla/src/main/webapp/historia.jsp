@@ -27,42 +27,42 @@
             <table border="1">
                 <tr>
                     <th>Atractivo</th>
-                    <th>Descripción</th>
+                    <th>Descripción.</th>
                 </tr>
                 <tr>
                     <td>Tarabita</td>
                     <td>Una tarabita recorre parte de la laguna, 
-                    	ofreciendo una vista aérea de la misma</td>
+                    	ofreciendo una vista aérea de la misma.</td>
                 </tr>
                 <tr>
                     <td>Peseos en kayak o en barcos</td>
                     <td>Se pueden realizar recorridos en barcos con música
-                    	y baile folklórico</td>
+                    	y baile folklórico.</td>
                 </tr>
                 <tr>
                     <td>Miradores</td>
                     <td>El mirador del Yambo ofrece vistas panorámicas de la laguna y los alrededores, 
-                    	siendo un punto estratégico para tomar fotos y disfrutar del paisaje</td>
+                    	siendo un punto estratégico para tomar fotos y disfrutar del paisaje.</td>
                 </tr>
                  <tr>
                     <td>Senderos para caminar</td>
                     <td>Los alrededores de la laguna tienen senderos para caminar,
-                        perfectos para disfrutar de la naturaleza</td>
+                        perfectos para disfrutar de la naturaleza.</td>
                 </tr>
                  <tr>
                     <td>Parque infantil</td>
                     <td>Para los niños, existe un parque de atracciones con columpios 
-                        y juegos infantiles</td>
+                        y juegos infantiles.</td>
                 </tr>
                   <tr>
                     <td>Fauna</td>
                     <td>Se pueden avistar diversas especies de aves, 
-                        como el pájaro brujo, patos silvestres y garzas</td>
+                        como el pájaro brujo, patos silvestres y garzas.</td>
                 </tr>
                    <tr>
                     <td>Comida típica</td>
                     <td>En los alrededores se puede encontrar comida típica de la sierra, como fritada,
-                        habas con mellocos y choclos con queso</td>
+                        habas con mellocos y choclos con queso.</td>
                 </tr>        
                 
             </table>
@@ -72,7 +72,11 @@
             <ol>
                 <li>Salcedo</li>
                 <li>Latacunga</li>
-                <li>Ambato</li>
+                <li>Plaza Roja de Guaranda</li>
+                <li>La ciudad de Pelileo</li>
+                <li>El Balneario de Salasaca</li>
+                <li>El parque Botánico</li>
+                <li>La Quinta de Juan León Mera</li>
             </ol>
         </section>
     </main>
